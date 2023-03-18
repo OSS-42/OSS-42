@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?OSS-42&theme=blue-green)
+
+[![42 Project Score](https://42-project-badge.glitch.me/users/ewurstei/project/minishell)](https://github.com/OSS-42/09-MINISHELL)
+
+
 <!--
 **OSS-42/OSS-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
