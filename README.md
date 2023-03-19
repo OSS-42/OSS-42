@@ -1,26 +1,33 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSS-42)](https://github.com/OSS-42/github-readme-stats)
 
-![LIBFT](https://github.com/byaliego/42-project-badges/blob/main/badges/libft-bonus.png)
-![FT_PRINTF](https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printf-bonus.png)
-![B2BR](https://github.com/byaliego/42-project-badges/blob/main/badges/born2beroot-bonus.png)
-![GNL](https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_line-bonus.png)
-![SO_LONG](https://github.com/byaliego/42-project-badges/blob/main/badges/so_long-bonus.png)
-![PUSH_SWAP](https://github.com/byaliego/42-project-badges/blob/main/badges/push_swap.png)
-![MINISHELL](https://github.com/byaliego/42-project-badges/blob/main/badges/minishell-bonus.png)
-![CUB3D](https://github.com/byaliego/42-project-badges/blob/main/badges/cub3d-bonus.png)
+# FIRST CIRCLE
+![1-LIBFT](https://github.com/byaliego/42-project-badges/blob/main/badges/libft-bonus.png)
+
+# SECOND CIRCLE
+![2-PRINTF](https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printf-bonus.png)
+![3-B2BR](https://github.com/byaliego/42-project-badges/blob/main/badges/born2beroot-bonus.png)
+![4-GNL](https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_line-bonus.png)
+
+# THIRD CIRCLE
+![5-PUSH_SWAP](https://github.com/byaliego/42-project-badges/blob/main/badges/push_swap.png)
+![6-SO_LONG](https://github.com/byaliego/42-project-badges/blob/main/badges/so_long-bonus.png)
+[7-PIPEX Bonus]
+
+# FOURTH CIRCLE
+[8-PHILO No Bonus]
+![9-MINISHELL](https://github.com/byaliego/42-project-badges/blob/main/badges/minishell-bonus.png)
+
+# FIFTH CIRCLE
+![10-CUB3D](https://github.com/byaliego/42-project-badges/blob/main/badges/cub3d-bonus.png)
+
+in Progress :
+
+[11-NetPractice]
+
+Next up :
+
+[12-PISCINE_CPP]
 
 
-<!--
-**OSS-42/OSS-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+thanks to [Byaliego for the badges](https://github.com/byaliego/42-project-badges)
