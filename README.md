@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?OSS-42&theme=blue-green)
-
-[![42 Project Score](https://42-project-badge.glitch.me/users/ewurstei/project/minishell)](https://github.com/OSS-42/09-MINISHELL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSS-42)](https://github.com/OSS-42/github-readme-stats)
 
 
 <!--
