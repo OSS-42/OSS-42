@@ -1,6 +1,13 @@
-### Hi there 👋
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSS-42)](https://github.com/OSS-42/github-readme-stats)
+
+![LIBFT](https://github.com/byaliego/42-project-badges/blob/main/badges/libft-bonus.png)
+![FT_PRINTF](https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printf-bonus.png)
+![B2BR](https://github.com/byaliego/42-project-badges/blob/main/badges/born2beroot-bonus.png)
+![GNL](https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_line-bonus.png)
+![SO_LONG](https://github.com/byaliego/42-project-badges/blob/main/badges/so_long-bonus.png)
+![PUSH_SWAP](https://github.com/byaliego/42-project-badges/blob/main/badges/push_swap.png)
+![MINISHELL](https://github.com/byaliego/42-project-badges/blob/main/badges/minishell-bonus.png)
+![CUB3D](https://github.com/byaliego/42-project-badges/blob/main/badges/cub3d-bonus.png)
 
 
 <!--
