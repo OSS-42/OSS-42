@@ -1,6 +1,6 @@
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSS-42)](https://github.com/OSS-42/github-readme-stats)|<img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libft-bonus.png" width="100" height="100" /><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printf-bonus.png" width="100" height="100" /><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2beroot-bonus.png" width="100" height="100" /><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_line-bonus.png" width="100" height="100" /><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swap.png" width="100" height="100" /><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_long-bonus.png" width="100" height="100" /><img src="[7-PIPEX Bonus]" width="100" height="100" alt="7-PIPEX"/><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/philosophers.png" width="100" height="100" alt="8-PHILO"/><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minishell-bonus2.png" width="100" height="100" /><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/cub3d-bonus.png" width="100" height="100" /><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/net_practice-bonus.png" width="100" height="100" />|
 |-----------------------------|-----------------------------|
-|`In Progress`|Exam Rank04|
-|`Coming Next`|[12-PISCINE_CPP]|
+|`In Progress`|[12-PISCINE_CPP]|
+|`Coming Next`|[exam rank-05]|
 
 thanks to [Byaliego for the badges](https://github.com/byaliego/42-project-badges)
